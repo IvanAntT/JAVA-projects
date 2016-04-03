@@ -1,0 +1,14 @@
+.root{
+    -fx-background-color: chartreuse;
+}
+
+.button{
+    -fx-min-height: 85;
+    -fx-min-width: 107;
+    -fx-font-size:30;
+    -fx-text-fill: azure;
+    -fx-background-color: midnightblue;
+}
+#result{
+    -fx-min-height: 177;
+}

@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: aliceblue;
+}
+
+.button{
+    -fx-min-height: 85;
+    -fx-min-width: 107;
+    -fx-font-size:30;
+}
+#result{
+    -fx-min-height: 177;
+}
